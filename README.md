@@ -1,4 +1,4 @@
-# Introduction_to_Cybersecurity_Nanodegree_Udacity
+# Introduction to Cybersecurity Nanodegree Program 
 
 List of all projects completed in the NanoDegree :
 

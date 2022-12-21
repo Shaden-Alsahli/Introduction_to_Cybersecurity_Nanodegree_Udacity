@@ -1,6 +1,6 @@
 # Introduction to Cybersecurity Nanodegree Program 
 
-List of all projects completed in the NanoDegree :
+List of all projects completed in Introduction to Cybersecurity Nanodegree.
 
 1- Securing a Business Network.
 
